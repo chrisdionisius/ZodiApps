@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZodiApps</string>
+    <string name="zodiac_name">Nama Zodiac</string>
+    <string name="detail">Detail</string>
+    <string name="date">Date</string>
+    <string name="zodiac_date">Tanggal Zodiac</string>
+    <string name="zodiac_detail">Detail Zodiac</string>
+    <string name="view_more">Lihat Selengkapnya</string>
+    <string name="about_me">About Me</string>
+    <string name="nama">Dionsius D. Yapenrui</string>
+    <string name="email">chrisdionisius@gmail.com</string>
+</resources>
